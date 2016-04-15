@@ -11,20 +11,21 @@
     tools:context="coursera.com.primerproyectoandroid.MainActivity">
 
     <TextView
-        android:layout_marginTop="30dp"
         android:id="@+id/tvWelcome"
         android:layout_centerHorizontal="true"
         android:textStyle="bold"
-        android:textSize="30sp"
+        android:textSize="40sp"
         android:textColor="@color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/bienvenido"/>
 
     <Button
+        android:layout_marginTop="30dp"
         android:layout_below="@id/tvWelcome"
         android:background="@drawable/style_button"
         android:textColor="@color/white"
+        android:textSize="25sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"

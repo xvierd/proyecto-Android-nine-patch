@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PrimerProyectoAndroid</string>
-    <string name="entrar">Entrar</string>
     <string name="bienvenido">Bienvenido</string>
+    <string name="entrar">Entrar</string>
 </resources>
