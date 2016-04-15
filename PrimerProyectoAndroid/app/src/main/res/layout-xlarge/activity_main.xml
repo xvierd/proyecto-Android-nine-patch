@@ -8,14 +8,14 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@drawable/fondo"
+    android:padding="0dip"
     tools:context="coursera.com.primerproyectoandroid.MainActivity">
 
     <TextView
-        android:layout_marginTop="40dp"
         android:id="@+id/tvWelcome"
         android:layout_centerHorizontal="true"
         android:textStyle="bold"
-        android:textSize="100sp"
+        android:textSize="80sp"
         android:textColor="@color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
